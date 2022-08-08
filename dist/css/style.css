@@ -373,7 +373,7 @@ body {
 }
 .body .footer2 {
   position: absolute;
-  bottom: 20%;
+  bottom: 60px;
 }
 .body .submit {
   position: absolute;
